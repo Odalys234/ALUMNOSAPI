@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE10092024\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{443420C2-3060-44D8-A41A-7454E9C24BBC}|KOAE10092024\\KOAE10092024.csproj|c:\\users\\mineducyt\\desktop\\practicasapi\\koae10092024\\koae10092024\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{443420C2-3060-44D8-A41A-7454E9C24BBC}|KOAE10092024\\KOAE10092024.csproj|solutionrelative:koae10092024\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE10092024\\KOAE10092024\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "KOAE10092024\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\PRACTICASApi\\KOAE10092024\\KOAE10092024\\Models\\Alumno.cs",
+              "RelativeToolTip": "KOAE10092024\\Models\\Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:03:53.12Z",
+              "EditorCaption": ""
             }
           ]
         }
